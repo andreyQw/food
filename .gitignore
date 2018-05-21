@@ -1,0 +1,14 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+diff.diff
+
+/test.php
+/public/uploads
+_auth
+/zakazaka.sql
